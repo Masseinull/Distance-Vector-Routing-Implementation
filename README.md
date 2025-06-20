@@ -29,7 +29,7 @@ The simulation is built around a few key components:
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone <your-repository-link>
+    git clone https://github.com/Masseinull/Distance-Vector-Routing-Implementation.git
     ```
 2.  Navigate to the project directory:
     ```bash
